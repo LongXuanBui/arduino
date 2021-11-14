@@ -26,4 +26,5 @@ void ghi(int address,int value)
   EEPROM.write(address + 1, three);
   EEPROM.write(address + 2, two);
   EEPROM.write(address + 3, one);
+  // da xong
   }
